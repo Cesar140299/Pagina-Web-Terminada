@@ -44,10 +44,12 @@
     display: flex;
     background-image: url(imagenes/diente_particula.jpg);
     .call {
-        width: 50%;
+        width: 75%;
         height: 50%;
         margin: 25px;
+        padding-left: 25px;
         h1 {
+            font-size: 3em;
             text-align: left;
             padding:15px;
         }
