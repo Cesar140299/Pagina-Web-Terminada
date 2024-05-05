@@ -65,18 +65,19 @@
   margin-bottom: 15px;
 }
 .home .call a {
-  color: #3d5deb;
+  background-color: rgba(248, 248, 248, 0.5882352941);
+  color: rgba(0, 0, 0, 0.808);
   font-weight: bold;
-  border: solid 2px rgb(54, 123, 212);
+  border: solid 3px rgb(26, 169, 194);
   border-radius: 5px;
   padding: 5px;
   margin-left: 5px;
 }
 .home .call a:hover {
-  background-color: #0c77be;
-  color: #000;
-  border-color: #0c77be;
-  box-shadow: 6px 5px 15px;
+  background-color: rgb(26, 169, 194);
+  color: #fcfafa;
+  border-color: rgba(248, 248, 248, 0.5882352941);
+  box-shadow: 6px 5px 15px rgba(21, 189, 231, 0.438);
 }
 
 .footer {
