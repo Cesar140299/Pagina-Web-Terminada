@@ -722,6 +722,9 @@
   padding: 10px 10px 5px 10px;
   margin: 7px;
 }
+.contacto .contacto__galeria .contacto__galeria--formulario .numero {
+  font-size: 22px;
+}
 .contacto .contacto__galeria .contacto__galeria--formulario a i {
   font-size: 35px;
   color: #0e9e73;
